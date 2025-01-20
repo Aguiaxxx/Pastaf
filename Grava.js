@@ -42,7 +42,7 @@ const fs = require('fs');
   });
 
   // Abra a página de login para gravar
-  await page.goto('https://example.com/login'); // Substitua pela URL de login
+  await page.goto('https://pasino.com/page/login'); // Substitua pela URL de login
 
   console.log('Gravação iniciada. Complete o login e feche o navegador para salvar.');
 
