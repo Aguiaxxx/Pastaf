@@ -10,7 +10,7 @@ const fs = require('fs');
   const page = await context.newPage();
 
   // Abre a página de login
-  await page.goto('https://example.com/login'); // Substitua pela mesma URL gravada
+  await page.goto('https://pasino.com/page/login'); // Substitua pela mesma URL gravada
 
   // Reproduz as ações
   for (const action of actions) {
